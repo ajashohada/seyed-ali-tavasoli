@@ -112,7 +112,7 @@ body {
 }
 
 .martyr-name {
-  font-size: 20px;  /* بزرگ‌تر شد */
+  font-size: 22px;  /* بزرگ‌تر شد */
   font-weight: 700;
   margin-bottom: 22px;
 }
@@ -124,12 +124,12 @@ body {
 }
 
 .info-label {
-  font-size: 14px;  /* بزرگ‌تر شد */
+  font-size: 16px;  /* بزرگ‌تر شد */
   color: #888;
 }
 
 .info-item strong {
-  font-size: 16px;  /* بزرگ‌تر شد */
+  font-size: 18px;  /* بزرگ‌تر شد */
   font-weight: 700;
 }
 
