@@ -69,7 +69,7 @@ body {
 
 .site-header {
   height: 70px;
-  padding: 0 18px;
+  padding: 0 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -83,7 +83,7 @@ body {
 }
 
 .header-title {
-  font-size: 24px;   /* بزرگ‌تر شد */
+  font-size: 18px;   /* بزرگ‌تر شد */
   font-weight: 700;
   text-align: center;
 }
